@@ -52,9 +52,9 @@ SweetSwap AI solves this by:
 
 ## 🎥 Demo
 
-**[📹 Watch Demo Video](#)** *(Insert your demo video link here)*
+**[📹 Watch Demo Video](#)** *https://youtu.be/SiHsSX96ywQ*
 
-*See SweetSwap AI in action: watch how users can instantly find diabetes-friendly alternatives to popular drinks like "Mango Boba Tea" or "Starbucks Caramel Frappuccino".*
+*See SweetSwap AI in action: watch how users can instantly find diabetes-friendly alternatives to popular drinks like "Mango Boba Tea" or "Iced Gingerbread Oatmilk Chai".*
 
 ---
 
@@ -97,15 +97,6 @@ SweetSwap AI solves this by:
 ![Nutrition Comparison Card](docs/screenshot-nutrition-comparison.png)
 
 *Visual before/after comparison showing sugar reduction and caffeine changes*
-
----
-
-**📝 To add your screenshots:**
-1. Take screenshots of your application
-2. Save them in the `docs/` folder (e.g., `docs/screenshot-homepage.png`)
-3. Update the image paths above to match your file names
-4. Replace the example descriptions with your own
-
 
 ---
 
