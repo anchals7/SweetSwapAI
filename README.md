@@ -81,7 +81,31 @@ SweetSwap AI solves this by:
 
 ## 📸 Screenshots
 
-*Add screenshots of your application here*
+### Main Interface
+![SweetSwap AI Homepage](docs/screenshot-homepage.png)
+
+*Clean, intuitive interface for entering drink names and getting instant substitutions*
+
+### Substitution Results
+![Substitution Example from Database](docs/screenshot-substitution-result1.png)
+
+![Substitution Example from Gemini LLM](docs/screenshot-substitution-result2.png)
+
+*Example showing a diabetes-friendly alternative with nutrition comparison*
+
+### Nutrition Comparison
+![Nutrition Comparison Card](docs/screenshot-nutrition-comparison.png)
+
+*Visual before/after comparison showing sugar reduction and caffeine changes*
+
+---
+
+**📝 To add your screenshots:**
+1. Take screenshots of your application
+2. Save them in the `docs/` folder (e.g., `docs/screenshot-homepage.png`)
+3. Update the image paths above to match your file names
+4. Replace the example descriptions with your own
+
 
 ---
 
